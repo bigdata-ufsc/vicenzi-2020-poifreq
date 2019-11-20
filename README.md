@@ -1,6 +1,6 @@
 # Exploring frequency-based approaches for efficient trajectory classification
 
-Source code of the paper Exploring frequency-based approaches for efficient trajectory classification, published in ACMSAC.
+Source code of the paper <b>Exploring frequency-based approaches for efficient trajectory classification</b>, published in ACMSAC.
 
 
 There are two source codes that do the same thing, one implemented in Java and the other in Python. We ran the scalability experiments with the Java implementation and the others experiments with the Python, which I prefer.
